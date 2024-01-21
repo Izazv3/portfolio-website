@@ -11,6 +11,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Izaz Ahamed | Personal Portfolio",
+
   description:
     "Izaz Ahamed is a full-stack developer with 1 year of experience.",
 };
