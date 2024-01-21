@@ -8,6 +8,8 @@ const nextConfig = {
       },
     ],
   },
+
+  distDir: "out",
   experimental: {
     serverActions: true,
   },
